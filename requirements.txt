@@ -1,0 +1,23 @@
+# Pinned dependencies for the inundation pipeline (Python 3.12).
+# Install with:  pip install -r requirements.txt
+# Run from the repo root with:  python -m inundation <command>
+affine==2.4.0
+attrs==26.1.0
+certifi==2026.6.17
+charset-normalizer==3.4.9
+click==8.4.2
+cligj==0.7.2
+geopandas==1.1.4
+idna==3.18
+numpy==2.5.1
+packaging==26.2
+pandas==3.0.3
+pyogrio==0.13.0
+pyproj==3.7.2
+python-dateutil==2.9.0.post0
+rasterio==1.5.0
+requests==2.34.2
+scipy==1.18.0
+shapely==2.1.2
+six==1.17.0
+urllib3==2.7.0
